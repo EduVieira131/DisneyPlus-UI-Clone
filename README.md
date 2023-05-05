@@ -18,7 +18,7 @@ Desenvolvido para praticar o desenvolvimento web utilizando *React*, bem como a 
 ### Preview:
 
 <p align="center">
-  <img alt="Imagem do projeto" src=".github/preview.png" width="70%">
+  <img alt="Imagem do projeto" src=".github/preview.png" width="80%">
 </p>
 
 ### Dependências utilizadas:
